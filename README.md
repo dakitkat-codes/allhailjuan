@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
   <body>
     <p>hi lol this is my sorry ass first attempt at coding html</p>
